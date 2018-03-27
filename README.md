@@ -14,6 +14,6 @@ En esta parte se describe la funcionalidad del proyecto descrito en pasos.
 3. Agregar el puntaje de cada jugador.
 4. imprimimr toda la data que se encuentra almacenada en el objeto _SCORE_
 
-![Diagrama de flujo del problema SCOREKEEPER](asset\img\Diagrama.png)
+![Diagrama de flujo del problema SCOREKEEPER](asset/img/Diagrama.png)
 
 ## Diagrama de flujo:
